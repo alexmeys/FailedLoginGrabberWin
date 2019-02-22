@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-#Alex Meys 7/2012
 #2012 Alex Meys
 
 use Win32::EventLog;
