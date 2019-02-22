@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#2012 Alex Meys
+#Alex Meys
 
 use Win32::EventLog;
 use strict;
